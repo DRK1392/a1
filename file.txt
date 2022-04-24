@@ -1,0 +1,6 @@
+file 
+details
+names
+characters
+integers
+floats

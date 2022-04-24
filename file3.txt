@@ -1,0 +1,6 @@
+name
+initial
+age
+qualification
+percentage
+
